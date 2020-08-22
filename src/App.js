@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 // import Testing from './fn_comp';
-import Testing1 from './fn_comp';
-import { Testing_Comp } from './fn_comp_1';
+// import Testing1 from './fn_comp';
+// import { Testing_Comp } from './fn_comp_1';
 import { Counter } from './displayCounter';
 
 function App() {
