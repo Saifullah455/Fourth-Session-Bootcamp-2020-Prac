@@ -14,7 +14,7 @@ function App() {
 
       <React.Fragment> 
 
-        <h1>Good {isMorning ? 'Morning' : 'Night'}</h1>
+        <h1>Hello, Have A Good {isMorning ? 'Morning' : 'Night'}</h1>
 
         {/* <header className="App-header"> */}
         {/* Hello Every One */}
